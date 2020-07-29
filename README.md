@@ -1,5 +1,5 @@
 
-![Banner](URL da imagem)
+![Banner](banner.png)
 
 # Katia Oliveira 
 
