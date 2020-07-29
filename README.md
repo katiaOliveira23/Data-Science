@@ -1,4 +1,4 @@
 # Katia Oliveira 
 
 ### Links
-* (www.linkedin.com/in/oliveirakatia23)
+* [LinkedIn](www.linkedin.com/in/oliveirakatia23)
