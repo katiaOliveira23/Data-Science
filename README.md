@@ -1,5 +1,4 @@
 
-![Banner](banner.png)
 
 # Katia Oliveira 
 
