@@ -12,7 +12,3 @@
 ## Sobre mim:
 
 * Graduação em Técnologia em Análise e Desenvolvimento de Sistemas pela UFMS
-
-
-
-Teste 
